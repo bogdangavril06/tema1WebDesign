@@ -5,6 +5,12 @@ body {
   margin: auto;
   padding: 20px;
   max-width: 900px;
+  border: 1px solid #f00cd2;
+  border-radius: 15px;
+}
+nav {
+  background-color: #f397d4;
+  padding: 10px;
 }
 nav ul {
   display: flex;
@@ -48,7 +54,8 @@ footer {
   font-size: 0.9rem;
   margin-top: 40px;
   padding: 20px;
-  background-color: #eceaea;
+  background-color: #fda2a2;
+  font-weight: bold;
 }
 table {
   width: 100%;
